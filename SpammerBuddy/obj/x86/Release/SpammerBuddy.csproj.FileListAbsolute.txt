@@ -19,3 +19,4 @@ D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\bin\x86\Release\SharpDX.dll
 D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\bin\x86\Release\Newtonsoft.Json.dll
 D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\obj\x86\Release\SpammerBuddy.exe
 D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\obj\x86\Release\SpammerBuddy.pdb
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\obj\x86\Release\SpammerBuddy.csprojResolveAssemblyReference.cache
