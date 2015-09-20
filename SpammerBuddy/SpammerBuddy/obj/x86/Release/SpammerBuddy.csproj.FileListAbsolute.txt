@@ -1,0 +1,11 @@
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\bin\x86\Release\SpammerBuddy.exe.config
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\bin\x86\Release\SpammerBuddy.exe
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\bin\x86\Release\SpammerBuddy.pdb
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\bin\x86\Release\EloBuddy.dll
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\bin\x86\Release\EloBuddy.SDK.dll
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\bin\x86\Release\SharpDX.Direct3D9.dll
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\bin\x86\Release\SharpDX.dll
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\bin\x86\Release\Newtonsoft.Json.dll
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\obj\x86\Release\SpammerBuddy.csprojResolveAssemblyReference.cache
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\obj\x86\Release\SpammerBuddy.exe
+D:\DevStuff\EloBuddy DevStuff\SpammerBuddy\SpammerBuddy\SpammerBuddy\obj\x86\Release\SpammerBuddy.pdb
